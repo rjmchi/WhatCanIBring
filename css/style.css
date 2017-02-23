@@ -1,0 +1,58 @@
+@import 'reset.css';
+body {
+	font-family: 'Century Gothic', Century, Arial, Helvetica, Verdana, sans-serif;
+	background: #ddddbb;
+	font-size: 67.5%;	
+}
+input[type=text],
+input[type=password],
+input[type=tel],
+input[type=number],
+input[type=email], 
+textarea {
+	margin:10px 0 5px;
+	width:50%;
+	padding:5px;
+}
+
+
+a:link {
+	color:#8ac441;
+}
+
+a:visited {
+	color:#333;
+}
+
+.pagewrap {
+	width:900px;
+	margin:0px auto;
+	position:relative;
+	background-color:#9CF;
+}
+.wrap {
+	padding:10px;
+}
+
+#login {
+	background-color:#99C;
+	width:50%;
+	margin:0 auto;
+	border-radius:10px;
+	border:1px solid #000;
+}
+#login h2 {
+	text-align:center;
+	margin:5px;
+}
+#login h3 {
+	text-align:center;
+	margin:3px;
+}
+#login form {
+	margin:10px;
+}
+#login label {
+	display:block;
+}
+
