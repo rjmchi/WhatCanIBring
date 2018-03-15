@@ -16,7 +16,7 @@
 			}
 			else
 			{
-				echo "<li>no events</li>";
+				echo "<li>No events found</li>";
 			}
 		?>
 		</ul>
