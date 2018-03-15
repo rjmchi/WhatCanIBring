@@ -2,7 +2,7 @@
 			<li>Sign up</li>
 			<li>Create an event</li>
 			<li>Invite guests</li>
-			<li>make plans</li>
+			<li>Make Plans</li>
 		</ol>
 		<div id="login">
 			<h2>Already a member?</h2>
